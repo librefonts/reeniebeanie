@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-75"/>
+    <underlineThickness value="50"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="Delta"/>
+      <psName name="Euro"/>
+      <psName name="macron"/>
+      <psName name="periodcentered"/>
+      <psName name="uni00A0"/>
+      <psName name="ohungarumlaut"/>
+      <psName name="ncaron"/>
+      <psName name="nacute"/>
+      <psName name="abreve"/>
+      <psName name="Dcroat"/>
+      <psName name="sacute"/>
+      <psName name="racute"/>
+      <psName name="uhungarumlaut"/>
+      <psName name="uring"/>
+      <psName name="rcaron"/>
+      <psName name="eogonek"/>
+      <psName name="ecaron"/>
+      <psName name="dcaron"/>
+      <psName name="dcroat"/>
+      <psName name="aogonek"/>
+      <psName name="lcaron"/>
+      <psName name="zdotaccent"/>
+      <psName name="tcaron"/>
+      <psName name="zacute"/>
+      <psName name="Aogonek"/>
+      <psName name="Sacute"/>
+      <psName name="Tcaron"/>
+      <psName name="Zacute"/>
+      <psName name="Zdotaccent"/>
+      <psName name="Racute"/>
+      <psName name="Abreve"/>
+      <psName name="Lacute"/>
+      <psName name="Eogonek"/>
+      <psName name="Ecaron"/>
+      <psName name="Dcaron"/>
+      <psName name="Nacute"/>
+      <psName name="Ncaron"/>
+      <psName name="Ohungarumlaut"/>
+      <psName name="Rcaron"/>
+      <psName name="Uring"/>
+      <psName name="Uhungarumlaut"/>
+      <psName name="uni00AD"/>
+      <psName name="Amacron"/>
+      <psName name="amacron"/>
+      <psName name="Emacron"/>
+      <psName name="emacron"/>
+      <psName name="Edotaccent"/>
+      <psName name="edotaccent"/>
+      <psName name="iogonek"/>
+      <psName name="Imacron"/>
+      <psName name="imacron"/>
+      <psName name="Omacron"/>
+      <psName name="omacron"/>
+      <psName name="Umacron"/>
+      <psName name="umacron"/>
+      <psName name="uogonek"/>
+      <psName name="Lcaron"/>
+      <psName name="Scommaaccent"/>
+      <psName name="scommaaccent"/>
+      <psName name="Tcommaaccent"/>
+      <psName name="tcommaaccent"/>
+      <psName name="lacute"/>
+      <psName name="gcommaaccent"/>
+      <psName name="Lcommaaccent"/>
+      <psName name="lcommaaccent"/>
+      <psName name="Rcommaaccent"/>
+      <psName name="rcommaaccent"/>
+      <psName name="Kcommaaccent"/>
+      <psName name="kcommaaccent"/>
+      <psName name="Gcommaaccent"/>
+      <psName name="Ncommaaccent"/>
+      <psName name="ncommaaccent"/>
+      <psName name="Iogonek"/>
+      <psName name="Uogonek"/>
+    </extraNames>
+  </post>
+
+</ttFont>
